@@ -1,6 +1,8 @@
 #include <stdio.h> /* Biblioteca padrão */
 
-main() {
+int main() {
     /* Hello World! */
     printf("Hello World!\n"); /* Instrução */
+
+    return 0;
 }

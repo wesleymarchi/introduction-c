@@ -1,7 +1,7 @@
 /* Soma */
 #include <stdio.h>
 
-main() {
+int main() {
     int x, y, sum;
 
     printf("Insira o primeiro valor inteiro: \n");

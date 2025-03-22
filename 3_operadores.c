@@ -1,10 +1,10 @@
 /* Usando instruções if */
 #include <stdio.h>
 
-main() {
+int main() {
     int x, y;
 
-    printf("Insira dois números inteiros\n");
+    printf("Insira dois numeros inteiros\n");
     scanf("%d%d", &x, &y);
 
     if (x == y)
