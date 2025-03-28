@@ -7,7 +7,7 @@ struct pessoa {
     float altura;
 };
 
-main() {
+int main() {
     struct pessoa p = {"John Wick", 25, 1.80}; // inicializa uma estrutura
 
     printf("Nome: %s\n", p.nome);
