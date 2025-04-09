@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int grau;
+    int nota;
     int aConta = 0;
     int bConta = 0;
     int cConta = 0;
@@ -9,10 +9,10 @@ int main() {
     int fConta = 0;
 
     printf("Entre com os conceitos. \n");
-    printf("Entre com o caractere EOF (fim) para finalizar as entradas.\n");
+    printf("Entre com o caractere (q) para finalizar as entradas.\n");
 
-    while ((grau = getchar()) != 'q') {
-        switch (grau) {
+    while ((nota = getchar()) != 'q') {
+        switch (nota) {
             case 'A':
             case 'a':
               ++aConta;

@@ -1,3 +1,5 @@
+/* Faça um script capaz de realizar a soma entre duas matrizes 3x3 */
+
 #include <stdio.h>
 
 #define LINHAS 3

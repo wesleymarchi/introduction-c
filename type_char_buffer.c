@@ -1,4 +1,4 @@
-/* Utilizando get char para ler uma sequência de caracteres
+/* Utilizando getchar para ler uma sequência de caracteres
  * Os caracteres são uma representação numérica da tabela ASCII (American Standard Code for Information Interchange)
  */
 #include <stdio.h>
